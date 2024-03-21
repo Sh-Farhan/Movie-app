@@ -24,6 +24,11 @@ body{
     font-size: 3rem;
     color: var(--text-color-primary);
 }
+.main{
+    display: flex;
+    gap: 3rem;
+    flex-wrap: wrap;
+}
 .card{
     width: 18rem;
     border-radius: 4px;
